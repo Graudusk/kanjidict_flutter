@@ -1,0 +1,147 @@
+[
+    {
+        "literal": "旅",
+        "radical": [
+            "classical"
+        ],
+        "misc": {
+            "grade": "3",
+            "stroke_count": "10",
+            "freq": "783",
+            "jlpt": "3"
+        },
+        "meaning": [
+            "trip",
+            "travel"
+        ],
+        "reading": [
+            {
+                "r_type": "ja_on",
+                "$t": "リョ"
+            },
+            {
+                "r_type": "ja_kun",
+                "$t": "たび"
+            }
+        ]
+    },
+    {
+        "literal": "星",
+        "radical": [
+            "classical"
+        ],
+        "misc": {
+            "grade": "2",
+            "stroke_count": "9",
+            "variant": {
+                "var_type": "jis212",
+                "$t": "1-46-37"
+            },
+            "freq": "844",
+            "jlpt": "2"
+        },
+        "meaning": [
+            "star",
+            "spot",
+            "dot",
+            "mark"
+        ],
+        "reading": [
+            {
+                "r_type": "ja_on",
+                "$t": "セイ"
+            },
+            {
+                "r_type": "ja_on",
+                "$t": "ショウ"
+            },
+            {
+                "r_type": "ja_kun",
+                "$t": "ほし"
+            },
+            {
+                "r_type": "ja_kun",
+                "$t": "-ぼし"
+            }
+        ]
+    },
+    {
+        "literal": "都",
+        "radical": [
+            "classical"
+        ],
+        "misc": {
+            "grade": "3",
+            "stroke_count": [
+                "11",
+                "10"
+            ],
+            "variant": {
+                "var_type": "jis213",
+                "$t": "1-92-74"
+            },
+            "freq": "123",
+            "jlpt": "3"
+        },
+        "meaning": [
+            "metropolis",
+            "capital",
+            "all",
+            "everything"
+        ],
+        "reading": [
+            {
+                "r_type": "ja_on",
+                "$t": "ト"
+            },
+            {
+                "r_type": "ja_on",
+                "$t": "ツ"
+            },
+            {
+                "r_type": "ja_kun",
+                "$t": "みやこ"
+            }
+        ]
+    },
+    {
+        "literal": "陽",
+        "radical": [
+            "classical"
+        ],
+        "misc": {
+            "grade": "3",
+            "stroke_count": "12",
+            "variant": [
+                {
+                    "var_type": "jis212",
+                    "$t": "1-70-41"
+                },
+                {
+                    "var_type": "jis212",
+                    "$t": "1-70-44"
+                }
+            ],
+            "freq": "1071",
+            "jlpt": "2"
+        },
+        "meaning": [
+            "sunshine",
+            "yang principle",
+            "positive",
+            "male",
+            "heaven",
+            "daytime"
+        ],
+        "reading": [
+            {
+                "r_type": "ja_on",
+                "$t": "ヨウ"
+            },
+            {
+                "r_type": "ja_kun",
+                "$t": "ひ"
+            }
+        ]
+    }
+]
